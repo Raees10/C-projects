@@ -10,34 +10,25 @@ Noor ALi Channa     2k17/csee/78
 Description...
 THIS PROJECT IS FOR CALCULATING for ADD,SUB,MULT and DIVI 
 data of student 
+ patch-1
+ 
+we are the group we made the culculator hope you will like our work
+
 
 
 this program is design to culculate the simple numbers (-),(+),(*),(/).
 
 this programe is calculating two number it also give decimal num
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
 package javaapplication14;
 
 import java.util.Scanner;
-
-/**
- *
- * @author JAMALI
- */
 public class JavaApplication14 {
     private static int num1;
     private static int num2;
     private static String operation;
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
     System.out.println("please enter the first number");
