@@ -10,3 +10,5 @@ Noor ALi Channa     2k17/csee/78
 Description...
 THIS PROJECT IS FOR CALCULATING for ADD,SUB,MULT and DIVI 
 data of student 
+
+this program is design to culculate the simple numbers (-),(+),(*),(/).
