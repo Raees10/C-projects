@@ -11,4 +11,7 @@ Description...
 THIS PROJECT IS FOR CALCULATING for ADD,SUB,MULT and DIVI 
 data of student 
 
+
 this program is design to culculate the simple numbers (-),(+),(*),(/).
+
+this programe is calculating two number it also give decimal num
